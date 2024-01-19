@@ -23,7 +23,6 @@ Projeyi çalıştırın
 ```
 ## Gerekli Dosyalar
 
-
-[![Video](https://github.com/VuralBayrakli/pyrace/blob/main/harita.png)]([https://youtu.be/My65wuMm-3c]
+[![Video](https://github.com/VuralBayrakli/pyrace/blob/main/harita.png)](https://youtu.be/My65wuMm-3c)
 
 
