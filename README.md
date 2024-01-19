@@ -21,7 +21,7 @@ Projeyi çalıştırın
     cd pyrace
     python RL_Car.py
 ```
-## Gerekli Dosyalar
+## Deneme Videosu
 
 [![Video](https://github.com/VuralBayrakli/pyrace/blob/main/harita.png)](https://youtu.be/My65wuMm-3c)
 
